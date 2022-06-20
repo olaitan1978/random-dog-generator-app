@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url("image/dog1.jpg");
+    background-size: cover;
+}
+
+img{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(192, 255, 206);
+}
+
+button{
+    font-size: large;
+    font-weight: bold;
+}
